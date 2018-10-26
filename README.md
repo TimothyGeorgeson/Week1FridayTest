@@ -1,6 +1,10 @@
 # Week1FridayTest
 Jungle and Encoding Problems
 
+[Jungle problem.docx](https://github.com/TimothyGeorgeson/Week1FridayTest/files/2519468/Jungle.problem.docx)
+
+[Encoding problem.docx](https://github.com/TimothyGeorgeson/Week1FridayTest/files/2519470/Encoding.problem.docx)
+
 Screenshots of folder/class hierarchy, parts of code, and output
 
 ![image](https://user-images.githubusercontent.com/44408528/47570578-79b80600-d904-11e8-81a6-3a86c5f024ff.png)
